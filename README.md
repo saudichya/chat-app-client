@@ -9,7 +9,7 @@ Users can also see the current participants of the chatroom and gets notified if
 
 The app uses **[Socket.io](https://socket.io/)** - a JavaScript library that enables realtime, bi-directional and event-based communication between web clients and servers. It has two parts: a client-side library that runs in the browser, and a server-side library for Node.js.
 
-Frontend of the app is developed using **React** and is deployed on **Github-Pages**.
+Frontend of the app is designed mobile-responsive using **CSS** and developed in **React**. The client-side is deployed on **Github-Pages**.
 
 **Express.js** (a Node.js framework) is used to develop the backend of the app. The server is hosted on **Heroku** - a cloud platform (PaaS) for hosting web applications.
 
