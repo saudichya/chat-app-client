@@ -19,8 +19,8 @@ const Chat = ({ location }) => {
     const [JoinError, setJoinError] = useState(false);
     const [message, setMessage] = useState('');
     const [messages, setMessages] = useState([]);
-    //const ENDPOINT = 'localhost:5000';
-    const ENDPOINT = 'https://react-dev-chat-app.herokuapp.com/';
+    const ENDPOINT = 'localhost:5000';
+    //const ENDPOINT = 'https://react-dev-chat-app.herokuapp.com/';
 
 
     useEffect(() => {
