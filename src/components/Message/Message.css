@@ -1,0 +1,92 @@
+  .messageBox {
+    background: #F3F3F3;
+    border-radius: 20px;
+    padding: 0px 20px;
+    color: white;
+    display: inline-block;
+    max-width: 80%;
+  }
+  
+  .messageText {
+    width: 100%;
+    letter-spacing: 0;
+    float: left;
+    font-size: 1.1em;
+    word-wrap: break-word;
+  }
+  
+  .messageText img {
+    vertical-align: middle;
+  }
+  
+  .messageContainer {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 5%;
+    margin-top: 3px;
+  }
+
+  .adminMessage {
+    width: 100%;
+    background: yellow;
+    text-align: center;
+  }
+
+  .adminText {
+    width: 200px;
+    color: violet;
+    font-size: 1.1em;
+    background-color: red;
+  }
+  
+  .sentText {
+    display: flex;
+    align-items: center;
+    font-family: Helvetica;
+    color: #5f5d5d;
+    letter-spacing: 0.3px;
+  }
+  
+  .pl-10 {
+    padding-left: 10px;
+  }
+  
+  .pr-10 {
+    padding-right: 10px;
+  }
+  
+  .justifyStart {
+    justify-content: flex-start;
+  }
+  
+  .justifyEnd {
+    justify-content: flex-end;
+  }
+
+  .justifyCenter {
+    justify-content: center;
+  }
+  
+  .colorWhite {
+    color: white;
+  }
+  
+  .colorDark {
+    color: #353535;
+  }
+
+  .colorAdmin {
+    color: #585858;
+  }
+  
+  .backgroundDark {
+    background: #47474d;
+  }
+  
+  .backgroundLight {
+    background: #F3F3F3;
+  }
+
+  .backgroundAdmin {
+    background: transparent
+  }
