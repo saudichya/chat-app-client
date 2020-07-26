@@ -11,9 +11,9 @@ The app uses **[Socket.io](https://socket.io/)** - a JavaScript library that ena
 
 Frontend of the app is developed using **React** and is deployed on **Github-Pages**.
 
-**Express.js** (a Node.js framework) is used to develop the backend of the app. The server is hosted on **Heroku** - *a cloud platform (PaaS) for hosting web applications.*
+**Express.js** (a Node.js framework) is used to develop the backend of the app. The server is hosted on **Heroku** - a cloud platform (PaaS) for hosting web applications.
 
 As a beginner, I undertook and completed this project to gain a strong understanding of React, Node.js and socket programming (socket.io).
 
 
-Youtube Video Reference - https://youtu.be/ZwFA3YMfkoc
+*Youtube Video Reference - https://youtu.be/ZwFA3YMfkoc*
