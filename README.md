@@ -1,7 +1,7 @@
 # Let's Chat
 ### A Real-Time Chat Application
 
-**[Live Site - Share link and Chat with your friends in realtime](https://swapnil031.github.io/client/)**
+**[Live Site - Share link and Chat with your friends in realtime](https://swapnil031.github.io/chat-app-client/)**
 
 This is the code repository for the project "Let's Chat" - a chat application allowing multiple users to create/join rooms and chat in realtime with their friends.
 What good is a chat app without fun of using emojis in chats? So the **support for emojis** is enabled for chatting. 
