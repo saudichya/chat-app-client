@@ -70,7 +70,7 @@ const Chat = ({ location }) => {
 
     return (
         (JoinError) ? 
-        ( <Redirect to="/client/" /> ) : 
+        ( <Redirect to="/chat-app-client/" /> ) : 
         (
             <div className='outerContainer'>
                 <TextContainer users={users} room={room}/>

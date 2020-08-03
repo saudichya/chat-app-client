@@ -19,7 +19,7 @@ const Join = () => {
                 </div>
                 <Link 
                     onClick={event => (!name || !room || name === 'admin') ? event.preventDefault() : null} 
-                    to={`/client/chatroom?name=${name}&room=${room}`}>
+                    to={`/chat-app-client/chatroom?name=${name}&room=${room}`}>
                         <button className="button mt-20" type="submit">Join</button>
                 </Link>
             </div>
