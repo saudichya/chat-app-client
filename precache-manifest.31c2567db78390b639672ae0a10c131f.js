@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8996ccd9cf5f6cc3c6e9d3773acd3e62",
+    "revision": "163d639e85899546c14a00280f0204e3",
     "url": "/chat-app-client/index.html"
   },
   {
-    "revision": "4654d65d9f067a308ce4",
+    "revision": "77b49232990ccb2c17e7",
     "url": "/chat-app-client/static/css/main.5572411a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chat-app-client/static/js/2.120fadeb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4654d65d9f067a308ce4",
-    "url": "/chat-app-client/static/js/main.f34630d2.chunk.js"
+    "revision": "77b49232990ccb2c17e7",
+    "url": "/chat-app-client/static/js/main.c17d9afd.chunk.js"
   },
   {
     "revision": "241a73e1816cac1c076a",
